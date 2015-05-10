@@ -1,7 +1,7 @@
 <div id="nav">
   <div id="leftside"> 
     <div id="text">
-      <div id="title"> magneticDuck </div>
+      <div id="title"> <span style="color:grey">magne</span>ticDuck </div>
       <div id="desc"> :: (a -> a) -> a </div>
     </div>
   </div>
