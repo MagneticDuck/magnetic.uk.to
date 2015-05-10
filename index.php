@@ -1,8 +1,14 @@
-<html>
+<?php include "includes/pre.php" ?>
   <head>
-    <title> test </title>
+    <?php include "includes/head.php" ?>
+    <title> test page </title>
   </head>
   <body>
-    <p> Testing! </p>
+    <?php include "includes/prebody.php" ?>
+    <div id="contents" style="height:500px">
+      <p>
+        Here is some text for me to read when I feel like it
+      </p>
+    </div>
   </body>
 </html>
