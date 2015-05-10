@@ -5,13 +5,16 @@
   </head>
   <body>
     <?php include "includes/prebody.php" ?>
-    <div id="contents" style="height:500px">
+    <div id="outer-contents"> <div id="contents" style="height:500px">
       <p>
-        Hey #css, I need your help x)
+        Welcome to my site. Under heavy development. Entry without adequate safety gear strictly prohibited.
       </p>
-      <p>
-        <a href="https://github.com/MagneticDuck/magnetic.uk.to"> This </a> is this site's github repo.
-      </p>
-    </div>
+      <div style="float:left; width:50%">
+      Test
+      </div>
+      <div style="width:50%; float:left">
+      Test
+      </div>
+    </div> </div>
   </body>
 </html>

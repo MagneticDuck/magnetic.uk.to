@@ -8,20 +8,17 @@ body {
 
 #nav {
   background-color: #212121;
-  font-family: monospace;
   color: white;
   overflow: hidden;
 }
 
 #nav #leftside {
   float: left;
+  font-family: monospace;
 }
 
 #nav #text {
-  padding-left: 20px;
-  padding-top: 20px;
-  padding-bottom: 100px;
-  padding-right: 30px;
+  padding: 20px;
 }
 
 #nav #title {
@@ -40,7 +37,9 @@ body {
 
 #nav #links {
   padding: 20px;
-  background-color: #3E3E3E
+  margin-top:15px;
+  margin-bottom:15px;
+  background-color: #2D2D2D
 }
 
 #links .link {
@@ -53,7 +52,7 @@ body {
 } 
 
 #links .link:hover {
-  background-color: white;
+  background-color: #BDBDBD;
   text-decoration: none;
 }
 
@@ -64,9 +63,14 @@ body {
 
 /* contents */
 
-#contents {
-  max-width: 750px;
+#outer-contents {
+  max-width: 1000px;
   margin: auto;
+}
+
+#contents {
+  margin-left: 50px;
+  margin-right: 50px;
   background-color: white;
   padding: 20px;
 }
