@@ -7,7 +7,10 @@
     <?php include "includes/prebody.php" ?>
     <div id="contents" style="height:500px">
       <p>
-        Here is some text for me to read when I feel like it
+        Hey #css, I need your help x)
+      </p>
+      <p>
+        <a href="https://github.com/MagneticDuck/magnetic.uk.to"> This </a> is this site's github repo.
       </p>
     </div>
   </body>
