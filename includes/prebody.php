@@ -7,9 +7,9 @@
   </div>
   <div id="rightside">
     <div id="links"> 
-      <a class="link" id="about-btn" href="#"> about </a> 
-      <a class="link" id="nixos-btn" href="#"> nixos </a> 
-      <a class="link" id="github-btn" href="#"> github </a> 
+      <a class="link" id="about-btn" href="index.php"> about </a> 
+      <a class="link" id="nixos-btn" href="nixos.php"> nixos </a> 
+      <a class="link" id="github-btn" href="github.php"> github </a> 
       <a class="link" id="todo-btn" href="#"> to-do </a> 
     </div>
   </div>
