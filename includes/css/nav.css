@@ -1,5 +1,4 @@
 #nav {
-  background-color: #212121;
   color: white;
   overflow: hidden;
 }
@@ -30,24 +29,21 @@
 
 #nav #rightside {
   overflow: hidden;
-  margin-top: 20px;
-  padding-bottom: 20px;
+  margin-top: 30px;
   min-width: 564px;
 }
 
 #nav #links {
-  padding: 20px;
-  background-color: #2D2D2D
+  background-color: rgba(255, 255, 255, 0.24);
 }
 
 #links .link {
-  border: solid black 1px;
+  border: none !important;
   display: inline-block;
-  color: white;
-  background-color: grey;
+  color: black;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-  margin: 5px;
+  margin: 10px;
 } 
 
 #links .link:hover {

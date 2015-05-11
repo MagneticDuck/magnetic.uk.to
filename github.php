@@ -2,11 +2,10 @@
   <head>
     <?php include "includes/head.php" ?>
     <title> github </title>
-    <style type="text/css">
-      #links #github-btn {
-        background-color: #7C8BC9;
-      }
-    </style>
+    <?php 
+      $id = 'github-btn';
+      include "includes/select-link.php" 
+    ?>
   </head>
   <body>
     <?php include "includes/prebody.php" ?>

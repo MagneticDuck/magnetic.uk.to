@@ -2,11 +2,10 @@
   <head>
     <?php include "includes/head.php" ?>
     <title> todo </title>
-    <style type="text/css">
-      #links #todo-btn {
-        background-color: #7C8BC9;
-      }
-    </style>
+    <?php 
+      $id = 'todo-btn';
+      include "includes/select-link.php" 
+    ?>
   </head>
   <body>
     <?php include "includes/prebody.php" ?>
