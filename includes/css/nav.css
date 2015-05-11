@@ -24,18 +24,18 @@
 
 #nav #desc {
   font-size: 14px;
-  margin-left: 100px;
-  margin-top: 5px;
+  margin-left: 120px;
+  margin-top: 7px;
 }
 
 #nav #rightside {
   overflow: hidden;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 #nav #links {
   padding: 20px;
-  margin-top:15px;
-  margin-bottom:15px;
   background-color: #2D2D2D
 }
 
