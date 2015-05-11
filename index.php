@@ -18,7 +18,7 @@
         <div class="head"> </div>
 
         <div class="row">
-          <p> Oh, hi! I wasn't expecting guests. There's a whole bunch of white space under this text, so I hope you have some imagination. </p>
+          <p> Oh, hi! I wasn't expecting guests. There's a decent amount of white space under this text, so I hope you have a proportional amount of imagination. </p>
         </div>  
         <div class="row">
         </div>
