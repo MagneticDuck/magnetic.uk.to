@@ -8,13 +8,11 @@
   color: white;
   padding: 0px;
   display: block;
-  margin: auto;
-  max-width: 500px;
+  margin: 0px;
 }
 
 #footer dl dt {
   display: inline;
-  display: inline-block;
 }
 
 #footer dl dd {

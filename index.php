@@ -15,15 +15,6 @@
         Testing
       </p>
     </div> </div>
-    <div id="footer">
-      <dl>
-        <dt> title </dt>
-        <dd> <a href="#"> link </a></dd>
-        <dt> title </dt>
-        <dd> <a href="#"> link </a></dd>
-        <dt> title </dt>
-        <dd> <a href="#"> link </a></dd>
-      </dl>
-    </div>
+    <?php include "includes/footer.php" ?>
   </body>
 </html>
