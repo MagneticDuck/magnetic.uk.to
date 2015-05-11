@@ -1,7 +1,9 @@
 <div id="footer">
   <dl>
     <dt> site source </dt>
-    <dd> <a href="http://github.com/magneticduck/magnetic.uk.to">github.com</a></dd>
+    <dd> <a href="http://github.com/magneticduck/magnetic.uk.to">
+        github.com
+    </a></dd>
     <dt> uname </dt>
     <dd> <a href="http://nixos.org/">nixos.org </a></dd>
     <dt> my language </dt>
