@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif; 
+  padding: 0px; margin: 0px;
+  background-color: #B9CDFE
+}
+
+#outer-contents {
+  max-width: 1000px;
+  margin: auto;
+}
+
+#contents {
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: white;
+  padding: 20px;
+  min-height: 750px;
+}
+
+.testrect {
+  height: 100px;
+  width: 100%;
+  background-color: red;
+}
+

@@ -1,11 +1,3 @@
-body {
-  font-family: sans-serif; 
-  padding: 0px; margin: 0px;
-  background-color: #B9CDFE
-}
-
-/* nav */
-
 #nav {
   background-color: #212121;
   color: white;
@@ -19,10 +11,15 @@ body {
 
 #nav #text {
   padding: 20px;
+  padding-right: 40px;
 }
 
 #nav #title {
   font-size: 45px;
+}
+
+#nav .title-accent {
+  color: #93A7FF;
 }
 
 #nav #desc {
@@ -58,25 +55,4 @@ body {
 
 #links .link:focus {
   border: solid black 1px;
-}
- 
-
-/* contents */
-
-#outer-contents {
-  max-width: 1000px;
-  margin: auto;
-}
-
-#contents {
-  margin-left: 50px;
-  margin-right: 50px;
-  background-color: white;
-  padding: 20px;
-}
-
-.testrect {
-  height: 100px;
-  width: 100%;
-  background-color: red;
 }

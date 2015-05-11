@@ -1,20 +1,29 @@
 <?php include "includes/pre.php" ?>
   <head>
     <?php include "includes/head.php" ?>
-    <title> test page </title>
+    <title> page </title>
   </head>
   <body>
+    <style type="text/css">
+      #links #about-btn {
+        background-color: #7C8BC9;
+      }
+    </style>
     <?php include "includes/prebody.php" ?>
-    <div id="outer-contents"> <div id="contents" style="height:500px">
+    <div id="outer-contents"> <div id="contents"> 
       <p>
-        Welcome to my site. Under heavy development. Entry without adequate safety gear strictly prohibited.
+        Testing
       </p>
-      <div style="float:left; width:50%">
-      Test
-      </div>
-      <div style="width:50%; float:left">
-      Test
-      </div>
     </div> </div>
+    <div id="footer">
+      <dl>
+        <dt> title </dt>
+        <dd> <a href="#"> link </a></dd>
+        <dt> title </dt>
+        <dd> <a href="#"> link </a></dd>
+        <dt> title </dt>
+        <dd> <a href="#"> link </a></dd>
+      </dl>
+    </div>
   </body>
 </html>
