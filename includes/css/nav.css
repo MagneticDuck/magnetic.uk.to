@@ -30,8 +30,9 @@
 
 #nav #rightside {
   overflow: hidden;
-  padding-top: 20px;
+  margin-top: 20px;
   padding-bottom: 20px;
+  min-width: 444px;
 }
 
 #nav #links {
