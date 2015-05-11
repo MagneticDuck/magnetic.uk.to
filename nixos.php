@@ -25,16 +25,15 @@
           <p> I'm currently writing a big-picture tutorial about the idea of nixos, but you can already find lots of information: </p>
         </div>  
         <div class="wrapper-2">
-          <div class="column"> <a href="http://nixos.org">
-            <div class="row btn">
-              <p>The nixos homepage</p>
-            </div>
-          </a> </div>
-          <div class="column"> <a href="http://lethalman.blogspot.it/2014/07/nix-pill-1-why-you-should-give-it-try.html"> 
-            <div class="row btn">
-              <p>A practical introduction on a  Lethalman's blogspot </p>
-            </div>
-          </a> </div>
+          <div class="column"> 
+            <a class="btn" href="http://nixos.org">
+              The nixos homepage
+            </a>
+          </div>
+          <div class="column"> 
+            <a class="btn" href="http://lethalman.blogspot.it/2014/07/nix-pill-1-why-you-should-give-it-try.html"> 
+              A practical introduction on a  Lethalman's blogspot </a> 
+          </div>
         </div>
 
       </div> <!-- end contents -->

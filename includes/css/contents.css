@@ -44,17 +44,20 @@ body {
   padding: 1em;
 }
 
-.row.btn {
-  background-color: grey;
+a.btn {
+  background-color: #D1D9EC;
   text-decoration: none;
   border-style: solid;
   border-width: 1px;
   text-decoration: none;
   margin: 5px;
+  display: block;
+  padding: 1em;
+  font-size: 17px;
 }
 
-.row.btn:hover {
-  background-color: #BDBDBD;
+a.btn:hover {
+  background-color: #B8C0D5;
   text-decoration: none;
 }
 
