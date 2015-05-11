@@ -19,7 +19,7 @@
         <div class="row">
           <p>Renoise is what happens when you mix modern DAWs with oldschool trackers. </p>
           <p class="important">It's probably pretty useful, but I'm still getting over how cool it is. </p>
-          <p> I make new pieces every once and a while, but not often though; whenever I check soundcloud to see when I made my last one I'm suprised, in an unfortunate way. Everything here is WIPs, but that will change. </p>
+          <p> I make new pieces every once and a while, but not often enough; whenever I check soundcloud to see when I made my last one I'm suprised, in an unfortunate way. Everything here is WIPs, but that will change. </p>
         </div>
 
         <div class="wrapper-2">

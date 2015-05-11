@@ -31,7 +31,7 @@
           </div>
           <div class="column"> 
             <a class="btn" href="http://lethalman.blogspot.it/2014/07/nix-pill-1-why-you-should-give-it-try.html"> 
-              A practical introduction on a  Lethalman's blogspot </a> 
+              A practical introduction on Lethalman's blogspot </a> 
           </div>
         </div>
 
