@@ -1,13 +1,15 @@
 #footer {
   background-color: #212121;
   padding: 10px;
+  overflow: hidden;
 }
 
 #footer dl {
   font-size: 15px;
   color: white;
   padding: 0px;
-  display: block;
+  display: inline-block;
+  padding-top: 7px;
   margin: 0px;
 }
 
@@ -25,4 +27,9 @@
 #footer dl dd a {
   text-decoration: none;
   color: #AEACAC; 
+}
+
+#footer img#wwwicon {
+  float: right;
+  display: block;
 }
