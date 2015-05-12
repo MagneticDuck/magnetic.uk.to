@@ -23,15 +23,20 @@
           <p class="important"> Nixos is a good idea! You should be using it. </p>
           <p> I'm currently writing a big-picture tutorial about the idea of nixos, but you can already find lots of information: </p>
         </div>  
-        <div class="wrapper-2">
+        <div class="wrapper-3">
           <div class="column"> 
             <a class="btn" href="http://nixos.org">
-              The nixos homepage
+              the nixos homepage
+            </a>
+          </div>
+          <div class="column"> 
+            <a class="btn" href="http://nixos.org/docs/SCR-2005-091.pdf">
+              Eelco Dolstra's thesis on nixos
             </a>
           </div>
           <div class="column"> 
             <a class="btn" href="http://lethalman.blogspot.it/2014/07/nix-pill-1-why-you-should-give-it-try.html"> 
-              A practical introduction on Lethalman's blogspot </a> 
+              a practical introduction on Lethalman's blogspot </a> 
           </div>
         </div>
 
