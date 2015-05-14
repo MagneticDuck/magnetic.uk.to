@@ -10,8 +10,8 @@
       <a class="link" id="about-btn" href="index.php"> about </a> 
       <a class="link" id="nixos-btn" href="nixos.php"> nixos </a> 
       <a class="link" id="github-btn" href="github.php"> github </a> 
+      <a class="link" id="music-btn" href="music.php"> music </a> 
       <a class="link" id="todo-btn" href="todo.php"> to-do </a> 
-      <a class="link" id="renoise-btn" href="renoise.php"> renoise </a> 
     </div>
   </div>
 </div>

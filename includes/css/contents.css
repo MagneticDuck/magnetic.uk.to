@@ -49,17 +49,17 @@ body {
 .row.btn {
   background-color: #E6E6E6;
   text-decoration: none;
-  border-style: solid;
   border-width: 1px;
   margin: 5px;
   color: black;
   font-size: 17px;
+  text-align: center;
 }
 
 a.btn {
+  text-align: center;
   background-color: #D1FFD9;
   text-decoration: none;
-  border-style: solid;
   border-width: 1px;
   text-decoration: none;
   margin: 5px;
