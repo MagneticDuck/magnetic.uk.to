@@ -1,7 +1,7 @@
 <?php
-  $page_title = 'template page';
-  $page_btn = 'index_btn';
-  $page_cmd = 'man';
+  $page_title = 'github';
+  $page_btn = 'github-btn';
+  $page_cmd = 'git remote  -v';
   include 'includes/pre.php';
 ?>
 
@@ -10,14 +10,18 @@
 </div>
 
 <div class="wrapper-2">
-  <div class="column"> <div class="row card">
-    <p> Content goes here. </p>
-    <p class="important"> Did you know that this is important? </p>
-  </div> </div>
-  <div class="column"> <div class="row">
-    <p> More content goes here. </p>
-    <p> More content goes here. </p>
-  </div> </div>
-</div>  
+  <div class="column">
+    <div class="row"> <p> Here are some buttons! </p> </div>
+    <div class="row btn"> lol fake button </div>
+    <a class="row btn" href="#"> slightly more real button </a>
+  </div>
+  <div class="column">
+    <div class="row">
+      <p> Some text, just randomly. </p>
+      <p> A bunch of text, actually. </p>
+    </div>
+  </div>
+</div>
+
 
 <?php include 'includes/post.php'; ?>

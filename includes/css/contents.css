@@ -43,7 +43,7 @@ body {
 } 
 
 .row {
-  padding: 0.5em;
+  padding: 1em;
 }
 
 .row.btn {
@@ -64,7 +64,7 @@ a.btn {
   text-decoration: none;
   margin: 5px;
   display: block;
-  padding: 0.5em;
+  padding: 1em;
   font-size: 17px;
   color: black;
 }

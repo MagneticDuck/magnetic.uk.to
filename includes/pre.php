@@ -5,13 +5,14 @@
     <link type="text/css" rel="stylesheet" href="includes/css/contents.css"/>
     <link type="text/css" rel="stylesheet" href="includes/css/footer.css"/>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-    <title> <?php echo $page_title ?> </title>
+    <title> <?= $page_title ?> </title>
 <?php 
   if ($page_btn != ''):
 ?>
     <style type="text/css">
-      #links <? echo '#' . $page_btn ?> {
-        background-color: #FFF056
+      <?= '#links #' . $page_btn ?>
+      {
+        background-color: #FFF056;
       }
     </style>
 <?php 
@@ -28,17 +29,18 @@
       </div>
       <div id="rightside">
         <div id="links"> 
-          <a class="link" id="about-btn" href="index.php"> about </a> 
+          <a class="link" id="home-btn" href="index.php"> home </a> 
           <a class="link" id="nixos-btn" href="nixos.php"> nixos </a> 
           <a class="link" id="github-btn" href="github.php"> github </a> 
           <a class="link" id="music-btn" href="music.php"> music </a> 
-          <a class="link" id="todo-btn" href="todo.php"> to-do </a> 
         </div>
       </div>
     </div>
     <div id="outer-contents">
       <div id="page-title">
-        <span class="accent">user@magnetic.uk.to~$</span><?= $page_cmd ?>
+        <span class="accent">user@magnetic.uk.to~$</span><?= ' ' . $page_cmd ?>
       </div>
       <div id="contents">
-      <div class="head"></div>
+        <div class="head"></div> 
+<!-- end pre.php -->
+
