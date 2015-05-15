@@ -1,2 +1,44 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
 <html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <link type="text/css" rel="stylesheet" href="includes/css/nav.css"/>
+    <link type="text/css" rel="stylesheet" href="includes/css/contents.css"/>
+    <link type="text/css" rel="stylesheet" href="includes/css/footer.css"/>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title> <?php echo $page_title ?> </title>
+<?php 
+  if ($page_btn != ''):
+?>
+    <style type="text/css">
+      #links <? echo '#' . $page_btn ?> {
+        background-color: #FFF056
+      }
+    </style>
+<?php 
+  endif;
+?>
+  </head>
+  <body>
+    <div id="nav">
+      <div id="leftside"> 
+        <div id="text">
+          <div id="title"> <span class="title-accent">magne</span>ticDuck </div>
+          <div id="desc"> :: (a -&gt; a) -&gt; a </div>
+        </div>
+      </div>
+      <div id="rightside">
+        <div id="links"> 
+          <a class="link" id="about-btn" href="index.php"> about </a> 
+          <a class="link" id="nixos-btn" href="nixos.php"> nixos </a> 
+          <a class="link" id="github-btn" href="github.php"> github </a> 
+          <a class="link" id="music-btn" href="music.php"> music </a> 
+          <a class="link" id="todo-btn" href="todo.php"> to-do </a> 
+        </div>
+      </div>
+    </div>
+    <div id="outer-contents">
+      <div id="page-title">
+        <span class="accent">user@magnetic.uk.to~$</span><?= $page_cmd ?>
+      </div>
+      <div id="contents">
+      <div class="head"></div>
