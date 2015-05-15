@@ -26,6 +26,7 @@
           <div id="title"> <span class="title-accent">magne</span>ticDuck </div>
           <div id="desc"> :: (a -&gt; a) -&gt; a </div>
         </div>
+        <!-- <img id="logo" src="../images/logo.png" alt="site logo"/> -->
       </div>
       <div id="rightside">
         <div id="links"> 

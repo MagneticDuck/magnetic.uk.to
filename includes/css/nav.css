@@ -8,9 +8,11 @@
   font-family: monospace;
 }
 
-#nav #text {
-  padding: 20px;
-  padding-right: 40px;
+#nav #logo {
+  margin: 20px;
+  margin-right: 40px;
+  margin-top: 27px;
+  height: 65px;
 }
 
 #nav #title {
