@@ -1,5 +1,5 @@
 <?php
-  $page_title = 'template page';
+  $page_title = 'github';
   $page_btn = 'github-btn';
   $page_cmd = 'git remote -v';
   include 'includes/pre.php';

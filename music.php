@@ -1,7 +1,7 @@
 <?php
-  $page_title = 'template page';
+  $page_title = 'music';
   $page_btn = 'music-btn';
-  $page_cmd = 'man';
+  $page_cmd = 'ffplay *';
   include 'includes/pre.php';
 ?>
 

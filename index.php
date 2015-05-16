@@ -1,5 +1,5 @@
 <?php
-  $page_title = 'template page';
+  $page_title = 'home';
   $page_btn = 'home-btn';
   $page_cmd = 'cat todo.txt | less';
   include 'includes/pre.php';
