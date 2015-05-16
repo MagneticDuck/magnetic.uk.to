@@ -8,10 +8,9 @@
   font-family: monospace;
 }
 
-#nav #logo {
+#nav #text {
   margin: 20px;
   margin-right: 40px;
-  margin-top: 27px;
   height: 65px;
 }
 
