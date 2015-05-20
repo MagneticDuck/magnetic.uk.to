@@ -5,8 +5,13 @@
   include 'includes/pre.php';
 ?>
 
-<div class="row">
-  <p> I put most of my work on <a href="http://github.com/magneticduck">github</a>. I started a lot, but I didn't finish much. I think I'm better now though. If I have interesting projects that others can contribute to I'll be sure to post them here. </p>
+<div class="wrapper-2">
+  <div class="column">
+    <div class="row"> <p> Nix-rice is my current project, started 20/5/2015. Hopefully I'll start filling a bit of a gap left in nixos, help make things generally more spectacular, and learn some nix in the meanwhile. </p> </div>
+  </div>
+  <div class="column">
+    <a class="btn" href="https://github.com/MagneticDuck/nix-rice"> nix-rice </a>
+  </div>
 </div>
 
 <?php include 'includes/post.php' ?>
