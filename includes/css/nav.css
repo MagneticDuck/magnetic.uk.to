@@ -36,6 +36,7 @@
 
 #nav #links {
   border: solid;
+  background-color: rgba(255, 255, 255, 0.24);
   border-width: 0px; border-top-width: 5px;
   border-color: #FFF056;
   overflow: hidden;
@@ -43,19 +44,13 @@
 
 #links .link {
   border: none !important;
-  background-color: rgba(255, 255, 255, 0.24);
   display: block;
   float: left;
   color: black;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   font-size: 17px;
-  flex: none;
 } 
-
-#links #fill {
-  flex: auto;
-}
 
 #links .link:hover {
   background-color: #BDBDBD;
