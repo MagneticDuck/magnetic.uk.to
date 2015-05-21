@@ -13,6 +13,7 @@
       <?= '#links #' . $page_btn ?>
       {
         background-color: #FFF056;
+        margin-top: -2px;
       }
     </style>
 <?php 
