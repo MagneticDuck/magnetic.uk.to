@@ -15,10 +15,16 @@
 
 <div class="wrapper-2">
   <div class="column">
-    <a class="btn" href="https://soundcloud.com/magneticduck/sets/favourites-1"> things on soundcloud </a>
+    <a class="btn" href="https://soundcloud.com/magneticduck/sets/favourites-1"> 
+      <p> things on soundcloud </p>
+      <p class="small"> where I post stuff I make when I make it </p>
+    </a>
   </div>
   <div class="column">
-    <a class="btn" href="http://magneticduck.bandcamp.com"> bandcamp </a>
+    <a class="btn" href="http://magneticduck.bandcamp.com"> 
+      <p> bandcamp </p>
+      <p class="small"> for more final releases (currently quite empty) </p>
+    </a>
   </div>
 </div>
 

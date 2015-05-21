@@ -13,6 +13,7 @@
       <?= '#links #' . $page_btn ?>
       {
         background-color: #FFF056;
+        padding-bottom: 15px;
       }
     </style>
 <?php 
@@ -34,6 +35,7 @@
           <a class="link" id="nixos-btn" href="nixos.php"> nixos </a> 
           <a class="link" id="github-btn" href="github.php"> github </a> 
           <a class="link" id="music-btn" href="music.php"> music </a> 
+          <div id="fill" class="link">  test </div>
         </div>
       </div>
     </div>

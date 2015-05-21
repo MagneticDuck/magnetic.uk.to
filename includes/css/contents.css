@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif; 
   padding: 0px; margin: 0px;
-  background-image: url(../../images/textures/stardust.png);
+  background-image: url(../../images/textures/background.png);
 
 }
 
@@ -30,6 +30,7 @@ body {
   background-color: white;
   min-height: 750px;
   padding: 20px;
+  font-size: 17px;
 }
 
 #contents .head {
@@ -39,7 +40,6 @@ body {
 p {
   margin-top: 0px;
   margin-bottom: 1em;
-  font-size: 17px;
 } 
 
 .row {
@@ -58,7 +58,7 @@ p {
 
 a.btn {
   text-align: center;
-  background-color: #D1FFD9;
+  background-color: #B6FFB9;
   text-decoration: none;
   border-width: 1px;
   text-decoration: none;
@@ -70,7 +70,7 @@ a.btn {
 }
 
 a.btn:hover {
-  background-color: #B8C0D5;
+  background-color: #9BFF9F;
   text-decoration: none;
 }
 
@@ -80,6 +80,18 @@ a.btn:hover {
 
 .row p:last-child {
   margin-bottom: 0px !important;
+}
+
+.btn p:last-child {
+  margin-bottom: 0px !important;
+}
+
+.row p {
+  margin-bottom: 0.5em;
+}
+
+.btn p {
+  margin-bottom: 0.5em;
 }
 
 .wrapper-2 {
@@ -103,9 +115,13 @@ a.btn:hover {
 }
 
 
-#contents p.important {
+p.important {
   text-align: center;
   font-size: 120%;
   color: #4A4A4A;
   font-style: oblique;
+}
+
+p.small {
+  font-size: 80%;
 }

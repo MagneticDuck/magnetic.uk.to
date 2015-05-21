@@ -15,17 +15,19 @@
 <div class="wrapper-3">
   <div class="column"> 
     <a class="btn" href="http://nixos.org">
-      the nixos homepage
+      <p> the nixos homepage </p>
     </a>
   </div>
   <div class="column"> 
     <a class="btn" href="http://nixos.org/docs/SCR-2005-091.pdf">
-      Eelco Dolstra's paper
-      </a>
-    </div>
+      <p> Eelco Dolstra's paper </p>
+      <p class="small"> highly reccomended </p>
+    </a>
+  </div>
   <div class="column"> 
     <a class="btn" href="http://lethalman.blogspot.it/2014/07/nix-pill-1-why-you-should-give-it-try.html"> 
-      a practical introduction on Lethalman's blogspot </a> 
+      <p> a practical introduction on Lethalman's blogspot </p>
+    </a> 
   </div>
 </div>
 

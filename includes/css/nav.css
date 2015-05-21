@@ -24,28 +24,37 @@
 
 #nav #desc {
   font-size: 14px;
+  margin: 0px;
   margin-left: 120px;
-  margin-top: 7px;
 }
 
 #nav #rightside {
   overflow: hidden;
-  margin-top: 30px;
-  min-width: 564px;
+  margin-top: 39px;
+  min-width: 344px;
 }
 
 #nav #links {
-  background-color: rgba(255, 255, 255, 0.24);
+  border: solid;
+  border-width: 0px; border-top-width: 5px;
+  border-color: #FFF056;
 }
 
 #links .link {
   border: none !important;
-  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.24);
+  display: block;
+  float: left;
   color: black;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-  margin: 10px;
+  font-size: 17px;
 } 
+
+#links #fill {
+  width: 1000px;
+  display: inline-block;
+}
 
 #links .link:hover {
   background-color: #BDBDBD;
