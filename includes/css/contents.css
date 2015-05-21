@@ -120,6 +120,8 @@ p.important {
   font-size: 120%;
   color: #4A4A4A;
   font-style: oblique;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 p.small {

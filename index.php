@@ -6,7 +6,9 @@
 ?>
 
 <div class="row">
-  <p> I'm a 17 year old interested in stuff.  </p>
+  <p> My actual name is Chris Gadzinski, but I go by magneticDuck on the interwebs. I'm 17 and currently living in Coimbra, Portugal. When I'm not "spending time" at school, practicing rowing or staring into space with a blank expression, I'm probably doing esoteric stuff with computers. My driving philosophy in everything I make is: </p>
+  <p class="important"> Cross-cutting mutable state and digital copyright law are two things that we really need to rethink in general. </p>
+
 </div>
 
 <div class="wrapper-2">
