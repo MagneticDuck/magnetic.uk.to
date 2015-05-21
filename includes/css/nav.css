@@ -38,6 +38,7 @@
   border: solid;
   border-width: 0px; border-top-width: 5px;
   border-color: #FFF056;
+  overflow: hidden;
 }
 
 #links .link {
@@ -49,11 +50,11 @@
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   font-size: 17px;
+  flex: none;
 } 
 
 #links #fill {
-  width: 1000px;
-  display: inline-block;
+  flex: auto;
 }
 
 #links .link:hover {
