@@ -6,10 +6,9 @@
 ?>
 
 <div class="row">
-  <p> My actual name is Chris Gadzinski, but I go by magneticDuck on the interwebs. I'm 17 and currently living in Coimbra, Portugal. When I'm not "spending time" at school, practicing rowing or doing .. other things, I'm probably doing esoteric stuff with computers. </p>
+  <p> My actual name is Chris Gadzinski, but I go by magneticDuck on the interwebs. I'm 17 and currently living in Coimbra, Portugal. When I'm not "spending time" at school, practicing rowing or doing .. other things, I'm probably doing esoteric stuff with computers and math. </p>
   <p class="important"> Cross-cutting mutable state is the way of the past! </p>
   <p> Here's my current todo list: </p> 
-
 </div>
 
 <div class="wrapper-2">
