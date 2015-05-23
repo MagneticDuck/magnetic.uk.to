@@ -46,7 +46,7 @@ p {
   padding: 1em;
 }
 
-.row.btn {
+div.btn {
   background-color: #E6E6E6;
   text-decoration: none;
   border-width: 1px;
@@ -64,7 +64,6 @@ a.btn {
   text-decoration: none;
   margin: 5px;
   display: block;
-  padding: 1em;
   font-size: 17px;
   color: black;
 }
@@ -74,8 +73,21 @@ a.btn:hover {
   text-decoration: none;
 }
 
-.row.btn p {
+.row span {
+  margin-bottom: 0.5em;
+  display: block;
+}
+
+span.small {
+  font-size: 80%;
+}
+
+a.btn span {
   text-decoration: none;
+}
+
+.row span:last-child {
+  margin-bottom: 0px !important;
 }
 
 .row p:last-child {
@@ -84,14 +96,6 @@ a.btn:hover {
 
 .btn p:last-child {
   margin-bottom: 0px !important;
-}
-
-.row p {
-  margin-bottom: 0.5em;
-}
-
-.btn p {
-  margin-bottom: 0.5em;
 }
 
 .wrapper-2 {
@@ -133,9 +137,6 @@ p.code {
   display: block;
 }
 
-p.small {
-  font-size: 80%;
-}
 
 h1 {
   margin: 0px;
