@@ -6,11 +6,15 @@
 ?>
 
 <div class="row">
-  <p> Sometimes it's a very good idea to take a step back and decide whether what you're doing now is the best way to do things, regardless of what other people are doing or what you already know how to do. </p>
-  <p> If for whatever reason you decide to take that step back and think about why you're not using nixos, I think what you'll find is fairly simple. </p>
-  <p class="important"> Nixos is a good idea! You should be using it. </p>
-  <p> I'm currently writing a big-picture tutorial about the idea of nixos, but you can already find lots of information: </p>
-</div>  
+  <p> Sometimes it's a very good idea to take a deep breath and a step back, and decide whether what you're doing now is the best way to do things. </p>
+  <p> I think anybody who does so will come to a fast conclusion: </p>
+  <p class="important"> Everybody should be using nixos! </p>
+
+  <a class="btn" href="introduction/1.php">
+    <p> click here for my very own introduction to nixos (with extra flowcharts) </p>
+    <p class="small"> ...and click below for stuff that other people wrote </p>
+  </a>
+</div>
 
 <div class="wrapper-3">
   <div class="column"> 
@@ -26,7 +30,7 @@
   </div>
   <div class="column"> 
     <a class="btn" href="http://lethalman.blogspot.it/2014/07/nix-pill-1-why-you-should-give-it-try.html"> 
-      <p> a practical introduction on Lethalman's blogspot </p>
+      <p> the most excellent nix-pills series by Lethalman</p>
     </a> 
   </div>
 </div>
