@@ -10,9 +10,9 @@
   <p> I think anybody who does so will come to a fast conclusion: </p>
   <p class="important"> Everybody should be using nixos! </p>
 
-  <a class="btn" href="introduction/1.php">
-    <p> click here for my very own introduction to nixos (with extra flowcharts) </p>
-    <p class="small"> ...and click below for stuff that other people wrote </p>
+  <a class="btn" href="introduction/0.php">
+    <p> click here for my own introduction to nixos (with extra flowcharts) </p>
+    <p class="small"> ...and click below for more material </p>
   </a>
 </div>
 

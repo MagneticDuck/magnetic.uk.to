@@ -16,10 +16,10 @@
     <a class="btn" href="http://www.github.com/magneticduck/nix-rice"> 
       <p> get cracking on that nix-rice idea </p>
     </a>
-    <div class="row btn"> 
+    <a class="btn" href="introduction/0.php"> 
       <p> write a big-picture nix tutorial, with flowcharts </p>
-      <p class="small"> I guess I'll just use inkscape </p>
-    </div>
+      <p class="small"> currently in progress </p>
+    </a>
   </div>
   <div class="column"> 
     <a class="btn" href="http://renoise.com"> 
