@@ -8,7 +8,7 @@
 <div class="row">
   <p> I've recently decided to take my music-making hobby a bit more seriously. Stuff might happen! Silly stuff, mainly. </p>
 
-  <iframe style="border: 0; width: 100%; height: 42px; margin:auto;" src="https://bandcamp.com/EmbeddedPlayer/track=793403105/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="http://magneticduck.bandcamp.com/track/practice-makes-permanent">practice makes permanent by magneticDuck</a></iframe>
+  <iframe style="border: 0; width: 100%; height: 42px; margin:auto;" src="https://bandcamp.com/EmbeddedPlayer/track=793403105/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/"><a href="http://magneticduck.bandcamp.com/track/practice-makes-permanent">practice makes permanent by magneticDuck</a></iframe>
 </div>
 
 <div class="wrapper-2">
