@@ -47,12 +47,13 @@
   <main>
     <p> To start off on our journey into nix-land, let's take a little walk. </p>
     <p> But we won't be walking down the yellow brick road; we're going to be walking through the path that an expression in the nix language takes to eventually cause a file to be made in a strange place called the nix store. </p>
+    <img src="/images/introduction/walk/1.png"/>
     <p> First things first, let's check out our nix expression! </p>
-    <p class="code">
-derivation {
-  
-}
-    </p>
+    <p class="code">derivation {
+  name = "hello-world";
+  builder = "./builder";
+  system = "x86_64-linux";
+} </p>
   </main>
 </section>
 
