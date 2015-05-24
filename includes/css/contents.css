@@ -62,10 +62,10 @@ section header {
   padding: 0px;
   margin-bottom: 20px;
   font-size: 30px;
+  background-color: #E3E3E3;
 }
 
 header .primary {
-  color: #0EA70F;
 }
 
 header .secondary {
