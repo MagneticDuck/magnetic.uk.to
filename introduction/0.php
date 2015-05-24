@@ -18,7 +18,7 @@
       <span class="primary"> Nix is the solution to package management! </span>
     </p>
     <p> Nix is not another feature or another intelligent algorithm to make package management a bit easier. It's a completely different way of doing things, and it provides all sorts of benefits. </p>
-    <img src="/images/introduction/solutions.png" />
+    <img src="/images/introduction/solutions.png" class="big"/>
     <a class="btn" href="1.php">
       <span> So what are you waiting for? Let's get moving. </span>
     </a>

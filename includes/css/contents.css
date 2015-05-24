@@ -167,4 +167,8 @@ main img {
   display: block;
 }
 
+main img.big {
+  width: 90%;
+}
+
 

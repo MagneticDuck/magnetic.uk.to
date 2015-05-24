@@ -46,4 +46,14 @@
   </main>
 </section>
 
+<section>
+  <header>
+    <span class="primary"> flowchart of myself </span>
+  </header>
+  <main>
+    <p> It's hard to put even a fraction of the things that surround me and have led me to where I am now into a flowchart, but here's a half-assed attempt at it! </p>
+    <img class="big" src="/images/global.png"/>
+  </main>
+</section>
+
 <?php include 'includes/post.php' ?>
