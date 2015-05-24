@@ -10,7 +10,7 @@
     <span class="primary"> $ whoami </span>
   </header>
   <main>
-    <p> My actual name is Chris Gadzinski, but I go by magneticDuck on the interwebs. I'm 17 and currently living in Coimbra, Portugal. When I'm not being schooling at school, practicing rowing or doing .. other things, I'm probably doing esoteric stuff with computers and math. </p>
+    <p> My actual name is Chris Gadzinski, but I go by magneticDuck on the interwebs. I'm 17 and currently living in Coimbra, Portugal. When I'm not schooling at school, practicing rowing or doing .. other things, I'm probably doing esoteric stuff with computers and math. </p>
     <p class="important">
       <span class="secondary"> it's become increasingly evident to me that </span>
       <span class="primary"> cross-cutting mutable state is the way of the past! </span>
