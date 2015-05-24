@@ -13,14 +13,20 @@
   <main>
     <div class="wrapper-2">
       <div class="column">
-        <div class="row"> 
-          <p> Nix-rice is my current project, started 20/5/2015. Hopefully I'll start filling a bit of a gap left in nixos, help make things generally more spectacular, and learn some nix in the meanwhile. </p> 
+        <div class="btn"> 
+          <p> Nix-rice is my current project. Hopefully I'll start filling a bit of a gap left in nixos, help make things generally more spectacular, and learn some nix in the meanwhile. </p> 
+          <a class="btn" href="https://github.com/MagneticDuck/nix-rice"> 
+            <span> nix-rice </span> 
+          </a>
         </div>
       </div>
       <div class="column">
-        <a class="btn" href="https://github.com/MagneticDuck/nix-rice"> 
-          <span> nix-rice </span> 
-        </a>
+        <div class="btn"> 
+          <p> I'm in the progress of making a nice little tutorial to nix on this site, feel free to suggest changes and corrections on github. </p>
+          <a class="btn" href="https://github.com/MagneticDuck/magnetic.uk.to"> 
+            <span> this site </span> 
+          </a>
+        </div>
       </div>
     </div>
   </main>
