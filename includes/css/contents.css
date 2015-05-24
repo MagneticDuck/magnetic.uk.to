@@ -1,3 +1,5 @@
+/* outside #contents */
+
 body {
   font-family: sans-serif; 
   padding: 0px; margin: 0px;
@@ -24,13 +26,16 @@ body {
   color: white;
 }
 
+/* inside #contents */
+
 #contents {
+  margin: 0px;
   margin-left: 50px;
   margin-right: 50px;
   background-color: white;
   min-height: 750px;
-  padding: 20px;
   font-size: 17px;
+  padding-bottom: 50px;
 }
 
 #contents .head {
@@ -39,63 +44,92 @@ body {
 
 p {
   margin-top: 0px;
-  margin-bottom: 1em;
+  margin-bottom: 20px;
 } 
 
-.row {
-  padding: 1em;
+/* inside section */
+
+section {
+  padding: 20px;
+  padding-bottom: 0px;
+  margin: 0px;
+  margin: 0px;
 }
 
-div.btn {
-  background-color: #E6E6E6;
-  text-decoration: none;
-  border-width: 1px;
-  margin: 5px;
-  color: black;
-  font-size: 17px;
-  text-align: center;
+section header {
+  font-family: monospace;
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 20px;
+  font-size: 30px;
 }
 
-a.btn {
-  text-align: center;
-  background-color: #B6FFB9;
-  text-decoration: none;
-  border-width: 1px;
-  text-decoration: none;
-  margin: 5px;
+header .primary {
+}
+
+header .secondary {
+  font-size: 20px;
+  clear: right;
   display: block;
-  font-size: 17px;
-  color: black;
+  margin-left: 60px;
 }
 
-a.btn:hover {
+section main {
+  margin-left: 15px;  
+}
+
+main .btn {
+  padding: 0.5em;
+  text-decoration: none;
+  border-width: 0px;
+  color: black;
+  margin: 5px;
+  font-size: 17px;
+  text-align: center;
+  display: block;
+}
+
+main div.btn {
+  background-color: #E6E6E6;
+}
+
+main a.btn {
+  background-color: #B6FFB9;
+}
+
+main a.btn:hover {
   background-color: #9BFF9F;
   text-decoration: none;
 }
 
-.row span {
-  margin-bottom: 0.5em;
+.btn span {
   display: block;
+  margin-bottom: 5px;
 }
 
-span.small {
+.btn span.small {
   font-size: 80%;
 }
 
-a.btn span {
-  text-decoration: none;
-}
-
-.row span:last-child {
+.btn span:last-child {
   margin-bottom: 0px !important;
 }
 
-.row p:last-child {
-  margin-bottom: 0px !important;
+main p.important {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
-.btn p:last-child {
-  margin-bottom: 0px !important;
+p.important span.primary {
+  font-size: 130%;
+}
+
+p.important span.secondary {
+  font-size: 110%;
+  font-style: oblique;
+  display: block;
+  color: #4A4A4A;
 }
 
 .wrapper-2 {
@@ -118,16 +152,6 @@ a.btn span {
   float: left;
 }
 
-
-p.important {
-  text-align: center;
-  font-size: 120%;
-  color: #4A4A4A;
-  font-style: oblique;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
 p.code {
   padding: 10px;
   background-color: black;
@@ -137,18 +161,10 @@ p.code {
   display: block;
 }
 
-
-h1 {
-  margin: 0px;
-  padding: 0px;
-  margin-bottom: 20px;
-  font-size: 30px;
-  margin-left: 20px;
-}
-
-#contents img {
-  width: 70%;
+main img {
+  width: 65%;
   margin: auto;
   display: block;
 }
+
 

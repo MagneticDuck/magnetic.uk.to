@@ -6,11 +6,14 @@
   include '/app/includes/pre.php';
 ?>
 
-<div class="row">
-  <h1> Page 1: Nix Store and Derivations </h1>
-  <p> I'm going to write this in a bit! </p>
-  <img src="/images/introduction/store.png"/>
-  </p>
-</div>
+<section>
+  <header>
+  <span class="primary"> Page 1: Nix Store and Derivations </span>
+  </header>
+  <main>
+    <p> I'm going to write this in a bit! </p>
+    <img src="/images/introduction/store.png"/>
+  </main>
+</section>
 
 <?php include '/app/includes/post.php'; ?>

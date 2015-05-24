@@ -5,8 +5,54 @@
   include '/app/includes/pre.php';
 ?>
 
-<div class="row">
-  <p> Template page </p>
-</div>
+<section>
+  <header>
+    <span class="primary"> big </span>
+    <span class="secondary"> small </span>
+  </header>
+  <main>
+    <p> testing testing </p>
+    <p> testing testing </p>
+    <div class="wrapper-2">
+      <div class="column">
+        <div class="btn">
+          <p> testing </p>
+        </div>
+      </div>
+      <div class="column">
+        <div class="btn">
+          <p> testing 2 </p>
+        </div>
+      </div>
+    </div>
+  </main>
+</section>
+
+<section>
+  <header>
+    <span class="primary"> big </span>
+    <span class="secondary"> small </span>
+  </header>
+  <main>
+    <p> testing testing </p>
+    <p> testing testing </p>
+    <div class="wrapper-2">
+      <div class="column">
+        <div class="btn">
+          <p> testing </p>
+        </div>
+      </div>
+      <div class="column">
+        <div class="btn">
+          <p> testing 2 </p>
+        </div>
+      </div>
+    </div>
+  </main>
+</section>
+
+<section>
+</section>
+
 
 <?php include '/app/includes/post.php'; ?>
