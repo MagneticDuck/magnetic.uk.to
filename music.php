@@ -12,9 +12,7 @@
   </header>
   <main>
     <p> I would love to know what you think of it! </p>
-    <div>
-      <iframe style="display: block; margin: auto; border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2425434919/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://magneticduck.bandcamp.com/album/album-0">Album 0 by magneticDuck</a></iframe>
-    </div>
+    <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/106641293&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
   </main>
 </section>
 
@@ -25,22 +23,8 @@
   </header>
   <main>
 
-  <p> Here are some places on the internet where you can hear music I make. </p>
+  <p> I've been making new sounds come out of computers for around a year now, and have finally released a little EP to show for it. I have found a solid foothold I think; what I want to do now is teach myself how to make music that sounds good. Allons-y! </p>
 
-  <div class="wrapper-2">
-    <div class="column">
-      <a class="row btn" href="https://soundcloud.com/magneticduck/sets/favourites-1"> 
-        <span> things on soundcloud </span>
-        <span class="small"> where I post stuff I make when I make it </span>
-      </a>
-    </div>
-    <div class="column">
-      <a class="row btn" href="http://magneticduck.bandcamp.com"> 
-        <span> bandcamp </span>
-        <span class="small"> where I post stuff when <span style="text-decoration:line-through; display:inline;"> I finish it</span> I'm tired of making it better </span>
-      </a>
-    </div>
-  </div>
   </main>
 </section>
 
