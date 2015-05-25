@@ -32,7 +32,7 @@
       <div id="rightside">
         <div id="links"> 
           <a class="link" id="home-btn" href="/index.php"> home </a> 
-          <a class="link" id="nixos-btn" href="/nixos.php"> nixos </a> 
+          <a class="link" id="blag-btn" href="/blag.php"> blag </a> 
           <a class="link" id="github-btn" href="/github.php"> github </a> 
           <a class="link" id="music-btn" href="/music.php"> music </a> 
         </div>

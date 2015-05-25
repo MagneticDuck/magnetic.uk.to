@@ -28,7 +28,7 @@
         <a class="btn" href="http://www.github.com/magneticduck/nix-rice"> 
           <span> get cracking on that nix-rice idea </span>
         </a>
-        <a class="btn" href="introduction/0.php"> 
+        <a class="btn" href="blog/nix1.php"> 
           <span> write a big-picture nix tutorial, with flowcharts </span>
           <span class="small"> currently in progress </span>
         </a>
