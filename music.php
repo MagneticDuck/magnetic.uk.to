@@ -7,7 +7,20 @@
 
 <section>
   <header>
-    <span class="primary"> music is a thing I do! </span>
+    <span class="secondary"> I just released my first </span>
+    <span class="primary"> silly little EP </span>
+  </header>
+  <main>
+    <p> I would love to know what you think of it! </p>
+    <div>
+      <iframe style="display: block; margin: auto; border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2425434919/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://magneticduck.bandcamp.com/album/album-0">Album 0 by magneticDuck</a></iframe>
+    </div>
+  </main>
+</section>
+
+<section>
+  <header>
+    <span class="primary"> yes, music is a thing I do! </span>
     <span class="secondary"> apparently, it's really hard and takes a lot of time </span>
   </header>
   <main>
@@ -28,19 +41,6 @@
       </a>
     </div>
   </div>
-  </main>
-</section>
-
-<section>
-  <header>
-    <span class="secondary"> I just released my first </span>
-    <span class="primary"> silly little EP </span>
-  </header>
-  <main>
-    <p> I would love to know what you think of it! </p>
-    <div>
-      <iframe style="display: block; margin: auto; border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2425434919/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://magneticduck.bandcamp.com/album/album-0">Album 0 by magneticDuck</a></iframe>
-    </div>
   </main>
 </section>
 
