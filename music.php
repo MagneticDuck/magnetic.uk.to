@@ -12,6 +12,8 @@
   </header>
   <main>
 
+  <p> Here are some places on the internet where you can hear music I make. </p>
+
   <div class="wrapper-2">
     <div class="column">
       <a class="row btn" href="https://soundcloud.com/magneticduck/sets/favourites-1"> 
@@ -22,7 +24,7 @@
     <div class="column">
       <a class="row btn" href="http://magneticduck.bandcamp.com"> 
         <span> bandcamp </span>
-        <span class="small"> for more final releases (currently quite empty) </span>
+        <span class="small"> where I post stuff when <span style="text-decoration:line-through; display:inline;"> I finish it</span> I'm tired of making it better </span>
       </a>
     </div>
   </div>
@@ -30,7 +32,16 @@
 </section>
 
 <section>
-    <iframe style="border: 0; width: 100%; height: 42px; margin:auto;" src="https://bandcamp.com/EmbeddedPlayer/track=793403105/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/"><a href="http://magneticduck.bandcamp.com/track/practice-makes-permanent">practice makes permanent by magneticDuck</a></iframe>
+  <header>
+    <span class="secondary"> I just released my first </span>
+    <span class="primary"> silly little EP </span>
+  </header>
+  <main>
+    <p> I would love to know what you think of it! </p>
+    <div>
+      <iframe style="display: block; margin: auto; border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2425434919/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://magneticduck.bandcamp.com/album/album-0">Album 0 by magneticDuck</a></iframe>
+    </div>
+  </main>
 </section>
 
 
