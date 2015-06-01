@@ -74,7 +74,7 @@
     <span class="primary"> the nix language </span>
   </header>
   <main>
-    <p> The nix language is a functional, untyped, pure and simple language. <a href=https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55">The "Nix by example" blog post by James Fisher</a> is a good explanation of it.  Don't worry, it's quite simple, and if you already know a functional language you won't be out of your element. </p>
+    <p> The nix language is a functional, untyped, pure and simple language. <a href="https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55">The "Nix by example" blog post by James Fisher</a> is a good explanation of it.  Don't worry, it's quite simple, and if you already know a functional language you won't be out of your element. </p>
     <p class="important">
       <span class="primary"> you don't need more than a minimal understanding of it for this tutorial! </span>
       <span class="secondary"> (but you should learn it before you try to start using nix) </span>
