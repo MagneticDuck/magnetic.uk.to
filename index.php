@@ -28,13 +28,13 @@
         <a class="btn" href="http://www.github.com/magneticduck/nix-rice"> 
           <span> get cracking on that nix-rice idea </span>
         </a>
-        <a class="btn" href="blog/nix1.php"> 
+        <a class="btn" href="blag/nix1.php"> 
           <span> write a big-picture nix tutorial, with flowcharts </span>
           <span class="small"> currently in progress </span>
         </a>
-        <a class="btn" href="blog/nix1.php"> 
-          <span> package some stuff into nixos </span>
-          <span class="small"> and containerize other things </span>
+        <a class="btn" href="http://github.com/nixos/nixpkgs">
+          <span> start making pull requests </span>
+          <span class="small"> on nixpkgs </span>
         </a>
       </div>
       <div class="column"> 
