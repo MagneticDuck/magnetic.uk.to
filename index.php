@@ -32,6 +32,10 @@
           <span> write a big-picture nix tutorial, with flowcharts </span>
           <span class="small"> currently in progress </span>
         </a>
+        <a class="btn" href="blog/nix1.php"> 
+          <span> package some stuff into nixos </span>
+          <span class="small"> and containerize other things </span>
+        </a>
       </div>
       <div class="column"> 
         <a class="btn" href="http://renoise.com"> 
