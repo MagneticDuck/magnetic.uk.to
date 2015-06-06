@@ -27,23 +27,16 @@
       <div class="column"> 
         <a class="btn" href="http://www.github.com/magneticduck/nix-rice"> 
           <span> get cracking on that nix-rice idea </span>
+          <span class="small"> currently in progress </span>
         </a>
         <a class="btn" href="blag/nix1.php"> 
           <span> write a big-picture nix tutorial, with flowcharts </span>
-          <span class="small"> currently in progress </span>
-        </a>
-        <a class="btn" href="http://github.com/nixos/nixpkgs">
-          <span> start making pull requests </span>
-          <span class="small"> on nixpkgs </span>
         </a>
       </div>
       <div class="column"> 
         <a class="btn" href="http://renoise.com"> 
-          <span> make renoise at home on nixos </span>
-          <span class="small"> tools for native bandlimited sampling for HQ chiptunes? utility to manage renoise projects as git repositories? </span>
-        </a>
-        <a class="btn" href="music.php"> 
-          <span> try to finish some music for a change </span>
+          <span> make some packages at home on nixos </span>
+          <span class="small"> submit some pull requests to nixpkgs! </span>
         </a>
       </div>
     </div>  
