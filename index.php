@@ -17,6 +17,7 @@
     </p>
   </main>
 </section>
+
 <section>
   <header>
     <span class="primary"> todo list </span>
@@ -26,17 +27,22 @@
     <div class="wrapper-2">
       <div class="column"> 
         <a class="btn" href="http://www.github.com/magneticduck/nix-rice"> 
-          <span> get cracking on that nix-rice idea </span>
-          <span class="small"> currently in progress </span>
+          <span> work on nix-rice </span>
+          <span class="small"> to the point of eventual usability </span>
         </a>
         <a class="btn" href="blag/nix1.php"> 
-          <span> write a big-picture nix tutorial, with flowcharts </span>
+          <span> talk to people trying to learn nix </span>
+          <span class="small"> and get some ideas for a tutorial or FAQ </span>
         </a>
       </div>
       <div class="column"> 
-        <a class="btn" href="http://renoise.com"> 
-          <span> make some packages at home on nixos </span>
-          <span class="small"> submit some pull requests to nixpkgs! </span>
+        <a class="btn" href="http://altitudegame.com"> 
+          <span> package altitude and the altitude server </span>
+          <span class="small"> (for nixos) and write a haskell log parser / control daemon in haskell  </span>
+        </a>
+        <a class="btn" href="http://www.amazon.com/Introduction-Topology-Modern-Analysis-Simmons/dp/1575242389">
+          <span> do some math  </span>
+          <span class="small"> and some haskell </span>
         </a>
       </div>
     </div>  
