@@ -30,19 +30,18 @@
           <span> work on nix-rice </span>
           <span class="small"> to the point of eventual usability </span>
         </a>
-        <a class="btn" href="blag/nix1.php"> 
-          <span> talk to people trying to learn nix </span>
-          <span class="small"> and get some ideas for a tutorial or FAQ </span>
+        <a class="btn" href="https://github.com/cobbpg/elerea"> 
+          <span> learn elrea </span>
+          <span class="small"> check out Helm </span>
         </a>
       </div>
       <div class="column"> 
-        <a class="btn" href="http://altitudegame.com"> 
-          <span> package altitude and the altitude server </span>
-          <span class="small"> (for nixos) and write a haskell log parser / control daemon in haskell  </span>
+        <a class="btn" href="https://github.com/MagneticDuck/altitude-mods"> 
+          <span> work on 'flight club' </span>
+          <span class="small"> to help bring life back to TBD altitude </span>
         </a>
         <a class="btn" href="http://www.amazon.com/Introduction-Topology-Modern-Analysis-Simmons/dp/1575242389">
           <span> do some math  </span>
-          <span class="small"> and some haskell </span>
         </a>
       </div>
     </div>  
