@@ -12,8 +12,8 @@
         <dd> <a href="http://nixos.org/">nixos.org </a></dd>
         <dt> my language </dt>
         <dd> <a href="http://haskell.org/">haskell.org</a></dd>
-        <dt> vim + emacs? </dt>
-        <dd> <a href="https://github.com/syl20bnr/spacemacs">github.com</a></dd>
+        <dt> altitude game </dt>
+        <dd> <a href="https://altitudegame.com">(play it!)</a></dd>
         <dt> modern tracker </dt>
         <dd> <a href="http://www.renoise.com">renoise.com</a></dd>
       </dl>

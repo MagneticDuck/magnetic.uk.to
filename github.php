@@ -14,7 +14,7 @@
     <div class="wrapper-2">
       <div class="column">
         <div class="btn"> 
-          <p> Nix-rice is my current project. Hopefully I'll start filling a bit of a gap left in nixos, help make things generally more spectacular, and learn some nix in the meanwhile. </p> 
+          <p> Nix-rice is an interesting project, and has recieved attention on communities like r/unixporn. I'm filling a bit of a gap in nixos, and most importantly showcasing the power of nix in an interesting and novel use-case. </p>
           <a class="btn" href="https://github.com/MagneticDuck/nix-rice"> 
             <span> nix-rice </span> 
           </a>
@@ -22,9 +22,9 @@
       </div>
       <div class="column">
         <div class="btn"> 
-          <p> I'm in the progress of making a nice little tutorial to nix on this site, feel free to suggest changes and corrections on github. </p>
-          <a class="btn" href="https://github.com/MagneticDuck/magnetic.uk.to"> 
-            <span> this site </span> 
+          <p> I'm currently in the progress of making an game with a friend, inspired and motivated by the virtues and unfortunate shortcomings of altitude (link on page footer). </p>
+          <a class="btn" href="https://github.com/solemnsky/solemnsky.github.io"> 
+            <span> SolemnSky </span> 
           </a>
         </div>
       </div>

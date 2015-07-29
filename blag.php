@@ -12,8 +12,8 @@
       <span class="primary"> the present contents of my blag </span>
     </p>
     
-    <div class="btn" href="blag/nix1.php">
-      nix tutorial (in progress)
+    <div class="btn">
+			oh darn, this is empty
     </div>
   </main>
 </section>

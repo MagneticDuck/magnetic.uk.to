@@ -26,22 +26,23 @@
   <main>
     <div class="wrapper-2">
       <div class="column"> 
-        <a class="btn" href="http://www.github.com/magneticduck/nix-rice"> 
-          <span> work on nix-rice </span>
-          <span class="small"> to the point of eventual usability </span>
+        <a class="btn" href="http://www.github.com/solemnsky/solemnsky.github.io"> 
+          <span class="small"> carry on with the </span>
+          <span> SolemnSky project </span>
         </a>
-        <a class="btn" href="https://github.com/cobbpg/elerea"> 
-          <span> learn elrea </span>
-          <span class="small"> check out Helm </span>
+        <a class="btn" href="https://github.com/magneticduck/nix-rice"> 
+          <span> occasionally work on </span>
+          <span class="small"> nix-rice </span>
         </a>
       </div>
       <div class="column"> 
         <a class="btn" href="https://github.com/MagneticDuck/altitude-mods"> 
-          <span> work on 'flight club' </span>
+          <span> continue supporting 'flight club' </span>
           <span class="small"> to help bring life back to TBD altitude </span>
         </a>
         <a class="btn" href="http://www.amazon.com/Introduction-Topology-Modern-Analysis-Simmons/dp/1575242389">
-          <span> do some math  </span>
+          <span class="small"> learn shit </span>
+					<span> because it's cool </span>
         </a>
       </div>
     </div>  
