@@ -1,7 +1,7 @@
 <?php
   $page_title = 'why worry';
   $page_btn = 'blag-btn';
-  $page_cmd = 'true';
+  $page_cmd = 'vim';
   include '/app/includes/pre.php';
 ?>
 
