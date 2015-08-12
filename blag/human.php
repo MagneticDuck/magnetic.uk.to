@@ -7,8 +7,8 @@
 
 <section>
   <header>
-    <span class="secondary"> why </span>
-    <span class="primary"> worry </span>
+    <span class="secondary"> stairway to </span>
+    <span class="primary"> heaven </span>
   </header>
   <main>
 		<p> It should come as no surprise that we humans, as rational as we love to proclaim ourselves, are governed by habits and instincts just as any other animal. Our whims and dispositions, artifacts of our well designed inhabitance of nature, remain as inseparable assets of ours as our arms and hands. But poor foolish humanity, whose recently grown legs propel itself forward in increasingly frightening leaps and bounds, can have no certainty that its instincts represent any sort of survival in the brave new world. Humanity continues along its path with the same tendencies that propel every part of the living kingdoms, but now finds itself veering off course, propelled with power proportionate only to its increasing uncertainty and bewilderment. It now bucks about wildly, like a frantic horse. </p>
@@ -17,8 +17,7 @@
 
 		<p> And now, by the same primal tendencies that used to allow us to survive, we have been led astray. Sickly deprived of our nature, our masses fumble through new and alien experiences, our instinct as relevant as that of a lamb in a slaughterhouse. It seems unlikely that mankind as we know it can expect anything but as devastating a crash as inevitably faces a poorly designed element of a natural system. Where is the butcher? </p>
 
-		<p> This is a work in progress, will finish eventually. </p>
-
+		<p> (This is a hastily written work in progress.) </p>
 
  </main>
 </section>
