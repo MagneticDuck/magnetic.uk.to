@@ -7,42 +7,39 @@
 
 <section>
   <header>
-    <span class="primary"> $ whoami </span>
+    <span class="primary"> whoami </span>
   </header>
   <main>
-    <p> My actual name is Chris Gadzinski, but I go by magneticDuck on the interwebs. I'm 17 and currently living in Coimbra, Portugal. When I'm not schooling at school, practicing rowing or doing .. other things, I'm probably doing esoteric stuff with computers and math. </p>
+    <p> My actual name is Chris Gadzinski, but I go by magneticDuck on the interwebs. I'm 17 and currently living in Coimbra, Portugal. Welcome to my site. </p>
     <p class="important">
-      <span class="secondary"> it's become increasingly evident to me that </span>
-      <span class="primary"> cross-cutting mutable state is the way of the past! </span>
+      <span class="secondary"> the most important choice we will ever make </span>
+      <span class="primary"> is between that which is easy and that which is hard </span>
     </p>
   </main>
 </section>
 
 <section>
   <header>
-    <span class="primary"> todo list </span>
-    <span class="secondary"> "todo"? perhaps more accurately, "do too". </span>
+    <span class="primary"> things I make happen</span>
   </header>
   <main>
     <div class="wrapper-2">
       <div class="column"> 
-        <a class="btn" href="http://www.github.com/solemnsky/solemnsky.github.io"> 
-          <span class="small"> carry on with the </span>
-          <span> SolemnSky project </span>
+        <a class="btn" href="https://github.com/MagneticDuck/altitude-mods"> 
+          <span> flight club  </span>
+          <span class="small"> the thing that keeps altitude alive outside of ladder </span>
         </a>
         <a class="btn" href="https://github.com/magneticduck/nix-rice"> 
-          <span> occasionally work on </span>
+          <span> the much reknown </span>
           <span class="small"> nix-rice </span>
         </a>
       </div>
       <div class="column"> 
-        <a class="btn" href="https://github.com/MagneticDuck/altitude-mods"> 
-          <span> continue supporting 'flight club' </span>
-          <span class="small"> to help bring life back to TBD altitude </span>
-        </a>
-        <a class="btn" href="http://www.amazon.com/Introduction-Topology-Modern-Analysis-Simmons/dp/1575242389">
-          <span class="small"> learn shit </span>
-					<span> because it's cool </span>
+        <a class="btn" href="http://www.github.com/solemnsky/solemnsky.github.io"> 
+					<div style="padding-top: 30px; padding-bottom: 30px">
+						<span class="small"> the mysterious </span>
+						<span> SolemnSky project </span>
+					</div>
         </a>
       </div>
     </div>  
@@ -51,10 +48,10 @@
 
 <section>
   <header>
-    <span class="primary"> flowchart of myself </span>
+    <span class="primary"> a flowchart </span>
+		<span class="secondary"> ... :) </span>
   </header>
   <main>
-    <p> It's hard to put even a fraction of the things that surround me and have led me to where I am now into a flowchart, but here's a half-assed attempt at it! </p>
     <img class="big" src="/images/global.png"/>
   </main>
 </section>

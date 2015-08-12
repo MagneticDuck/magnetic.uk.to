@@ -1,7 +1,7 @@
 <?php
-  $page_title = 'nixos';
+  $page_title = 'week 1';
   $page_btn = '';
-  $page_cmd = 'man nix';
+  $page_cmd = 'solemnsky week one';
   include '/app/includes/pre.php';
 ?>
 

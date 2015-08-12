@@ -7,8 +7,8 @@
 
 <section>
   <header>
-    <span class="primary"> the things I'm currently making </span>
-    <span class="secondary"> (or should be anyways) </span>
+    <span class="primary"> github </span>
+    <span class="secondary"> because coding is best done transparently </span>
   </header>
   <main>
     <div class="wrapper-2">
@@ -22,7 +22,7 @@
       </div>
       <div class="column">
         <div class="btn"> 
-          <p> I'm currently in the progress of making an game with a friend, inspired and motivated by the virtues and unfortunate shortcomings of altitude (link on page footer). </p>
+          <p> I'm currently in the progress of making an game, inspired and motivated by the virtues and unfortunate shortcomings of altitude (link on page footer). </p>
           <a class="btn" href="https://github.com/solemnsky/solemnsky.github.io"> 
             <span> SolemnSky </span> 
           </a>

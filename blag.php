@@ -12,9 +12,11 @@
       <span class="primary"> the present contents of my blag </span>
     </p>
     
-    <div class="btn">
-			oh darn, this is empty
-    </div>
+		<div style="max-width: 400px; margin: auto">
+			<a class="btn" href="./blag/human.php">
+				essay in progress
+			</a>
+		</div>
   </main>
 </section>
 

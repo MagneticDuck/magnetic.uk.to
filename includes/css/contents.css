@@ -4,6 +4,7 @@ body {
   font-family: sans-serif; 
   padding: 0px; margin: 0px;
   background-image: url(/images/textures/background.png);
+	background-attachment: fixed
 
 }
 
@@ -13,8 +14,8 @@ body {
 }
 
 #page-title {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 50px;
+  padding-bottom: 60px;
   
   text-align: center;
   font-size: 30px;
