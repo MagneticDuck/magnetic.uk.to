@@ -6,15 +6,14 @@
 ?>
 
 <section>
+  <header>
+    <span class="secondary"> listed below you will find the contents of  </span>
+    <span class="primary"> my poorly maintained blag </span>
+  </header>
   <main>
-    <p class="important"> 
-      <span class="secondary"> listed below you will find </span>
-      <span class="primary"> the present contents of my blag </span>
-    </p>
-    
-		<div style="max-width: 400px; margin: auto">
-			<a class="btn" href="./blag/human.php">
-				essay in progress
+		<div style="max-width: 400px; padding-top: 0px; margin-top: 0px; margin: auto">
+			<a class="btn" href="./blag/1.php">
+        new age of altitude
 			</a>
 		</div>
   </main>
