@@ -30,4 +30,31 @@
   </main>
 </section>
 
+<section>
+  <header>
+    <span class="primary"> Want to contact me? </span>
+  </header>
+  <main>
+    <p> I use various forms of internet communication. </p>
+    <div class="wrapper-2">
+      <div class="column">
+        <div class="btn">
+          skype: magnetic.duck
+        </div>
+        <a class="btn" href="mailto:zenmags@gmail.com">
+          email: zenmags@gmail.com
+        </a>
+      </div>
+      <div class="column">
+        <a class="btn" href="http://github.com/magneticduck">
+          github: MagneticDuck
+        </a>
+        <div class="btn">
+          irc: magneticduck@irc.freenode.net
+        </div>
+      </div>
+    </div>
+  </main>
+</section>
+
 <?php include 'includes/post.php' ?>
