@@ -52,6 +52,11 @@
   font-size: 17px;
 } 
 
+#links #selected {
+  background-color: #FFF056;
+  margin-top: -2px;
+}
+
 #links .link:hover {
   background-color: #BDBDBD;
   text-decoration: none;

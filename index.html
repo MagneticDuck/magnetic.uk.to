@@ -1,9 +1,9 @@
-<?php
-  $page_title = 'home';
-  $page_btn = 'home-btn';
-  $page_cmd = 'cat /etc/motd';
-  include 'includes/pre.php';
-?>
+---
+layout: "page"
+title: "home"
+btn: "home-btn"
+cmd: "cat /etc/motd"
+---
 
 <section>
   <header>
@@ -59,6 +59,3 @@
     <img class="big" src="/images/global.png"/>
   </main>
 </section>
-
-
-<?php include 'includes/post.php' ?>

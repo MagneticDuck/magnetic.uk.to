@@ -1,0 +1,150 @@
+/* outside #contents */
+
+body {
+  font-family: sans-serif; 
+  padding: 0px; margin: 0px;
+  background-image: url(/images/textures/background.png);
+	background-attachment: fixed
+
+}
+
+#outer-contents {
+  max-width: 1000px;
+  margin: auto;
+}
+
+#page-title {
+  padding-top: 50px;
+  padding-bottom: 60px;
+  
+  text-align: center;
+  font-size: 30px;
+  color: #93A7FF;
+  font-family: monospace;
+
+  .accent {
+    color: white;
+  }
+}
+
+
+/* inside #contents */
+
+#contents {
+  margin: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: white;
+  min-height: 750px;
+  font-size: 17px;
+  padding-bottom: 50px;
+
+  .head {
+    overflow: hidden;
+  }
+
+  p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+  } 
+}
+
+/* inside section */
+
+section {
+  padding: 20px;
+  padding-bottom: 0px;
+  margin: 0px;
+  margin: 0px;
+
+  header {
+    font-family: monospace;
+    margin: 0px;
+    padding: 5px;
+    margin-bottom: 20px;
+    font-size: 30px;
+
+    .primary {
+
+    }
+
+    .secondary {
+      font-size: 20px;
+      clear: right;
+      display: block;
+      margin-left: 60px;
+    }
+  }
+}
+
+section main {
+  margin-left: 15px;  
+
+  .btn {
+    padding: 0.5em;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+    // color: black;
+    margin: 5px;
+    font-size: 17px;
+    text-align: center;
+    display: block;
+  }
+
+  p {
+    .important {
+      text-align: center;
+      padding-top: 10px;
+      padding-bottom: 10px;
+
+      span.primary { font-size: 130%; }
+      span.secondary {
+        font-size: 110%;
+        font-style: oblique;
+        display: block;
+        color: #4A4A4A;
+      }
+    }  
+
+    .code {
+      padding: 10px;
+      background-color: black;
+      color: white;
+      font-family: monospace;
+      white-space: pre;
+      display: block;
+    }
+  }
+
+  .wrapper-2 {
+    padding: 0px;
+    overflow: hidden;
+  }
+
+  .wrapper-2 .column {
+    width: 50%;
+    float: left;
+  }
+
+  .wrapper-3 {
+    padding: 0px;
+    overflow: hidden;
+  }
+
+  .wrapper-3 .column {
+    width: 33.33%;
+    float: left;
+  }
+
+
+  img {
+    width: 65%;
+    margin: auto;
+    display: block;
+  }
+
+  img.big {
+    width: 90%;
+  }
+}

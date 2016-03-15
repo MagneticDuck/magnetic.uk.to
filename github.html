@@ -1,9 +1,8 @@
-<?php
-  $page_title = 'github';
-  $page_btn = 'github-btn';
-  $page_cmd = 'git remote -v';
-  include 'includes/pre.php';
-?>
+---
+layout: "page"
+title: "github"
+cmd: "git remote -v"
+---
 
 <section>
   <header>
@@ -14,7 +13,7 @@
     <div class="wrapper-2">
       <div class="column">
         <div class="btn">
-          <p> an endeavour to leverage nix and nixos to make vague and difficult to execute ricing configurations a thing of the past </p>
+          <p> making ricing easy (and deterministic) </p>
           <a class="btn" href="https://github.com/MagneticDuck/nix-rice">
             <span> nix-rice </span>
           </a>
@@ -22,7 +21,7 @@
       </div>
       <div class="column">
         <div class="btn">
-          <p> a long-term project to bring Altitude into a new more promising age </p>
+          <p> bringing an older multiplayer game into a newer age </p>
           <a class="btn" href="https://github.com/solemnsky/solemnsky.github.io">
             <span> solemnsky </span>
           </a>
@@ -31,5 +30,3 @@
     </div>
   </main>
 </section>
-
-<?php include 'includes/post.php' ?>

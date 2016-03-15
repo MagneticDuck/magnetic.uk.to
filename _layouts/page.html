@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div id="nav">
+  <div id="leftside">
+    <div id="text">
+      <div id="title"> <span class="title-accent">Magne</span>ticDuck </div>
+      <div id="desc"> :: (a -&gt; a) -&gt; a </div>
+    </div>
+  </div>
+  <div id="rightside">
+    <div id="links">
+      {% for nav_item in site.data.nav %}
+        {% if page.url == nav_item.link %}
+        <a class="link" id="selected" href="#"> {{ nav_item.name }} </a>
+        {% else %}
+        <a class="link" href="{{ nav_item.link }}"> {{ nav_item.name }} </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div id="outer-contents">
+  <div id="page-title">
+    <span class="accent">user@magnetic.uk.to~$</span> {{ page.cmd }}
+  </div>
+  <div id="contents">
+    <div class="head"></div>
+
+    {{ content }}
+
+  </div> 
+</div> 
+
+<div id="footer">
+  <dl>
+    <dt> site source </dt>
+    <dd> <a href="http://github.com/magneticduck/magnetic.uk.to">
+        github.com
+    </a></dd>
+  </dl>
+</div>
