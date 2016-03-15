@@ -1,4 +1,7 @@
 markdown: kramdown
 
+baseurl: /
+port: 4000
+
 sass:
   style: compressed
