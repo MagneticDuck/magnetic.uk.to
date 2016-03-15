@@ -1,0 +1,9 @@
+<header>
+	{% if include.reverse %}
+		{% if include.secondary %} <span class="secondary"> [{{ include.secondary }}]</span> {% endif %}
+		<span class="primary"> {{ include.primary }} </span>
+	{% else %}
+		<span class="primary"> {{ include.primary }} </span>
+		{% if include.secondary %} <span class="secondary"> [{{ include.secondary }}]</span> {% endif %}
+	{% endif %}
+</header>

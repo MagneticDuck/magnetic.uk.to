@@ -5,15 +5,15 @@ cmd: "find ."
 ---
 
 <section>
-  <header>
-    <span class="secondary"> listed below you will find the contents of  </span>
-    <span class="primary"> my poorly maintained blag </span>
-  </header>
+  {% include header.html primary="my blag" secondary="very empty" %}
   <main>
-		<div style="max-width: 400px; padding-top: 0px; margin-top: 0px; margin: auto">
-			<a class="btn" href="./blag/1.php">
-        new age of altitude
-			</a>
+		<div class="wrapper-middle">
+      <div class="column">
+        <div class="box"> [nothing yet] </div>
+<!--       {% for post in site.posts %}
+  			<a class="box" href="{{ post.url }}"> {{ post.title }} </a>
+      {% endfor %}
+ -->      </div>
 		</div>
   </main>
 </section>

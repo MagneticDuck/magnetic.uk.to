@@ -64,9 +64,7 @@ section {
     margin-bottom: 20px;
     font-size: 30px;
 
-    .primary {
-
-    }
+    .primary { }
 
     .secondary {
       font-size: 20px;
@@ -80,71 +78,52 @@ section {
 section main {
   margin-left: 15px;  
 
-  .btn {
+  .box {
     padding: 0.5em;
-    border-style: solid;
-    border-width: 2px;
-    border-color: grey;
-    // color: black;
     margin: 5px;
     font-size: 17px;
     text-align: center;
     display: block;
-  }
+    border-style: none;
 
-  p {
-    .important {
-      text-align: center;
-      padding-top: 10px;
-      padding-bottom: 10px;
-
-      span.primary { font-size: 130%; }
-      span.secondary {
-        font-size: 110%;
-        font-style: oblique;
-        display: block;
-        color: #4A4A4A;
-      }
-    }  
-
-    .code {
-      padding: 10px;
-      background-color: black;
-      color: white;
-      font-family: monospace;
-      white-space: pre;
-      display: block;
-    }
+    border-color: grey;
+    border-style: solid;
+    border-width: 2px;
   }
 
   .wrapper-2 {
     padding: 0px;
     overflow: hidden;
-  }
-
-  .wrapper-2 .column {
-    width: 50%;
-    float: left;
+    .column {
+      width: 50%;
+      float: left;
+    }
   }
 
   .wrapper-3 {
     padding: 0px;
     overflow: hidden;
+    .column {
+      width: 33.33%;
+      float: left;
+    }
   }
 
-  .wrapper-3 .column {
-    width: 33.33%;
-    float: left;
+  .wrapper-middle {
+    max-width: 400px; 
+    padding-top: 0px;
+    margin-top: 0px; 
+    margin: auto;
+    .column {
+      width: 100%;
+      float: left;
+    }
   }
-
 
   img {
     width: 65%;
     margin: auto;
     display: block;
-  }
-
-  img.big {
-    width: 90%;
+    .big { width: 90%; }
   }
 }
